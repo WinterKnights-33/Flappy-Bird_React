@@ -1,7 +1,7 @@
 
 
-export const Game_Width = 288;
-export const Game_Height = 512;
+export const Game_Width = 500;
+export const Game_Height = 612;
 
 export const Pipe_Width = 50;
 export const Pipe_Gap = 150;
