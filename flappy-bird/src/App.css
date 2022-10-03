@@ -1,10 +1,14 @@
 
 
-.App {
-    width: 100vw;
-    height: 100hv;
-    background-color: black;
-    display: flex;
-    justify-content: center;
-    align-items: center;
+.footer
+{
+    background-color: gray;
+    color: white;
+    height: 4vh;
+    text-align: center;
+    font-size: 20px;
+}
+.footer-span
+{
+    color: rgb(180, 238, 247)
 }

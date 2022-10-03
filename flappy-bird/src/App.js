@@ -1,4 +1,8 @@
-import Game from "./components/Game"
+
+
+import Game from "./components/Game";
+import './App.css';
+
 
 const App = () => {
     return (
@@ -14,11 +18,15 @@ const App = () => {
                 <Game />
             </div>
             <div>
-                
+                <footer className="footer">
+                    <span className="footer-span">&#10052;</span>
+                    <span> By WinterKnights </span>
+                    <span className="footer-span">&#10052;</span>
+                </footer>
             </div>
         </div>
 
     )
 }
 
-export default App
+export default App;
